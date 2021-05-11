@@ -1,11 +1,16 @@
 _repo: The-Friendly-Killers_65283
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65283-h/images/cover.jpg
 creator:
   author:
     agent_name: Tenneshaw, S. M.
     gutenberg_agent_id: '26807'
     url: http://www.gutenberg.org/2009/agents/26807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65283#The-Friendly-Killers
 gutenberg_issued: '2021-05-08'
 gutenberg_type: Text
 identifiers:
